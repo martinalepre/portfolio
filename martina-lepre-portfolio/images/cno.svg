@@ -1,0 +1,14 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder visual for the CNO project">
+  <rect width="800" height="600" fill="#EEF0F0"/>
+  <path d="M100 380 C 250 460, 550 460, 700 380" fill="none" stroke="#14213A" stroke-width="2"/>
+  <path d="M100 320 C 250 400, 550 400, 700 320" fill="none" stroke="#3E7C6E" stroke-width="2" opacity="0.6"/>
+  <path d="M100 440 C 250 520, 550 520, 700 440" fill="none" stroke="#3E7C6E" stroke-width="2" opacity="0.3"/>
+  <circle cx="400" cy="200" r="6" fill="#E8483B"/>
+  <g font-family="IBM Plex Mono, monospace" font-size="12" fill="#6B6F76">
+    <text x="100" y="180">calendar</text>
+    <text x="230" y="180">·</text>
+    <text x="250" y="180">tone of voice</text>
+    <text x="430" y="180">·</text>
+    <text x="450" y="180">reach</text>
+  </g>
+</svg>
